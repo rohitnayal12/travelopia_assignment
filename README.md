@@ -73,7 +73,7 @@ deployed link for demo:-
 1. Clone the repository:
 
    ```bash
-   https://github.com/Biswajit2595/warlike-current-5989
+   (https://github.com/rohitnayal12/travelopia_assignment/tree/main)
 
  ## assignment Setup
  
