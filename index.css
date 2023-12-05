@@ -161,11 +161,12 @@ h5{
 }
 
 .content button {
+    
     display: flex;
     flex-direction: column;
     align-items: center;
     padding-top: 10px;
-    margin-left: 40%;
+    margin-left: 20%;
     margin-top: 20px;
     height: 40px;
     width: 150px;
