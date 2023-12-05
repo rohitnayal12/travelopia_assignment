@@ -39,7 +39,8 @@ this assignment is regarding adding  the show more and show less functionality o
 
 - This page is the main page of the website.
 
-![Screenshot (1605)](https://github.com/rohitnayal12/travelopia_assignment/assets/119488668/169c6458-4425-4049-9ca3-aacd5d0c4a5c)
+![Screenshot (1607)](https://github.com/rohitnayal12/travelopia_assignment/assets/119488668/8ce4509a-5e0b-46f3-8abb-fbe9f2820790)
+
 
 
 
