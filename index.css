@@ -1,12 +1,12 @@
 .navbar{
     display: flex;
-
-   justify-content: space-between;
-    /* border: 1px solid black; */
+    gap: 100px;
+    box-sizing: border-box;
     
     width: 100%;
-    position: sticky;
+    position: fixed;
     top: 0;
+   
    
  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
 }
@@ -17,6 +17,7 @@ img{
 .container{
     /* border: 2px solid blue; */
     width: 100%;
+    margin-top: 70px;
   
 }
 .tags{
@@ -24,7 +25,7 @@ img{
     justify-content: space-around;
     justify-content: space-between;
     margin-top: 10px;
-    gap: 13px;
+    gap: 20px;
 }
 .navbar_tag{
     font-family: "Merriweather Sans", sans-serif;
@@ -33,14 +34,20 @@ img{
     font-weight: bold;
     color: rgb(73, 72, 72);
     cursor: pointer;
+    margin-left: 20px;
     
 }
+
+
 button{
+    width: 100px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 5px;
-    height: 50%;
+  padding-top: 10px;
+  margin-left: 20px;
+  margin-top: 6px;
+    height: 60%;
     align-content: center;
     background-color: rgb(207, 249, 249);
     color: black;
@@ -91,10 +98,10 @@ h5{
     flex-direction: column;
     align-items: center;
     align-content: center;
-    background-color: gray;
+    background-color: rgba(128, 128, 128, 0.5);
     background: blurred;
     color: white;
-    font-family: "Merriweather Sans", sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     --font-family-display: "Miller Display Bold", serif;
 }
 .content{
@@ -104,9 +111,12 @@ h5{
 .h22{
     color: rgb(86, 83, 83);
     font-weight: bold;
+    font-size: 30px;
     padding: 15px;
-    font-family: "Merriweather Sans", sans-serif;
-    --font-family-display: "Miller Display Bold", serif;
+    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+
+    /* --font-family-display: "Miller Display Bold", serif; */
 }
 
 .p{
@@ -152,27 +162,38 @@ h5{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 5px;
-    margin-left: 15px;
-    height: 5%;
+    padding-top: 10px;
+    margin-left: 50%;
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
     align-content: center;
     background-color: rgb(207, 249, 249);
     color: black;
     border-radius: 10%;
     border: 1 px solid rgb(207, 249, 249) ;
+    align-self: center;
+
 }
 
 #tourDescription{
     width: 80%;
     margin: auto;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    font-size: 15px;
+    margin-top: -15px;
+    color: rgb(110, 106, 106);
+    font-family: 'Times New Roman', Times, serif;
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
 }
 
 #additionalContent{
     width: 80%;
     margin: auto;
+    font-size: 15px;
+    color: rgb(110, 106, 106);
+    font-family: 'Times New Roman', Times, serif;
     /* border: 2px solid red; */
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
 }
 
 
