@@ -82,8 +82,8 @@ deployed link for demo:-
 2. **Navigate to the  directory:**
 
    ```bash
-   cd travelopia assignment
-  go live
+   -cd travelopia assignment
+   -go live
    
 ## Final Words
 
