@@ -55,7 +55,7 @@ To be updated
 
 deployed link for demo:-
 
- -- (https://656ef42ac8214d1cbc4a553d--majestic-cascaron-bc3273.netlify.app/)
+ -- https://soft-starlight-ada954.netlify.app/
 
 ## Tech-stack
 
