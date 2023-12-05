@@ -55,7 +55,7 @@ To be updated
 
 deployed link for demo:-
 
- -- [upstylenew.netlify.app/](https://upstylenew.netlify.app/)
+ -- (https://656ef42ac8214d1cbc4a553d--majestic-cascaron-bc3273.netlify.app/)
 
 ## Tech-stack
 
